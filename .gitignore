@@ -1,4 +1,6 @@
 node_modules/
+sanity-deliveroo-clone
+
 .expo/
 dist/
 npm-debug.*
